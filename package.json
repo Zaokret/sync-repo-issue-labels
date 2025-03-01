@@ -1,0 +1,12 @@
+{
+  "name": "repository-label-sync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "node --env-file=.env script.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
