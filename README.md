@@ -1,6 +1,8 @@
 # Setup
 
-Create github personal access token with repository issues read/write permission
+1. Create github personal access token with repository issues read/write permission
+
+2. Clone repository
 
 # Run
 
